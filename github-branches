@@ -1,0 +1,3 @@
+git branch -v
+* master    a1b2c3d Initial commit
+  bug-fix-typo  e4f5g6h Fixed typo in README

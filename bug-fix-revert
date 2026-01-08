@@ -1,0 +1,15 @@
+curl https://api.github.com/repos/subhrakankashisahu-afk/vftvk-Simple-Interest-Calculator/pulls
+[
+  {
+    "head": {
+      "repo": {
+        "full_name": "subhrakankashisahu-afk/vftvk-Simple-Interest-Calculator"
+      }
+    },
+    "base": {
+      "repo": {
+        "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
+]
